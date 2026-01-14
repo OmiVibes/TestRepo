@@ -1,4 +1,1 @@
-# TestRepo
-Test 
-
-My name is Om Shinde
+This repo is for testing secret detection.
