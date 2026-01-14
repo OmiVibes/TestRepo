@@ -1,0 +1,3 @@
+API_KEY = "123456789101112131415"
+password="supersecret123"
+token='ABCD-XYZ-9999999'
